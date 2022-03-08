@@ -1,0 +1,6 @@
+{
+  "port": 9011,
+  "jwtSecret": "learning_project_mern",
+  "mongoURI": "mongodb+srv://dewolix:370897@cluster0.xt5jz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:9011"
+}

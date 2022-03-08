@@ -1,0 +1,11 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fefefe;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
